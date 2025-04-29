@@ -1,1 +1,1 @@
-Important informations are in file ""
+Important informations are in file "readmeBarnak.pdf"
